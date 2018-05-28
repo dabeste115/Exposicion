@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: USER
+Build-Jdk: 10.0.1
+Implementation-Title: Exposicion
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: pe.edu.upc
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/Exposicion/
+Created-By: Maven Integration for Eclipse
+
